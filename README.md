@@ -5,24 +5,28 @@ Este laboratorio tiene como objetivo que los estudiantes fortalezcan sus conocim
 
 ---
 
+## Ambiente de desarrollo
+
+[Jupyter Haskell](https://mybinder.org/v2/gh/IHaskell/IHaskell/mybinder). 
+
 ## 🛠️ Instrucciones Generales  
 
 1. **Fork del repositorio**  
    - Realice un **fork** de este repositorio en su cuenta personal de GitHub.  
-   - No realice cambios directamente sobre el repositorio original.  
+   - No realice cambios directamente sobre el repositorio original.
 
 2. **Estructura de carpetas**  
    - Dentro de su fork, cree una carpeta llamada **`lab02/`**.  
    - Cada ejercicio debe resolverse en un archivo **independiente** con el siguiente formato:  
      ```
-     lab02/ejercicio01.hs
-     lab02/ejercicio02.hs
+     lab02/ejercicio01.ipynb
+     lab02/ejercicio02.ipynb
      ...
      ```  
 
 3. **Resolución de ejercicios**  
    - Desarrolle los programas en el entorno de programacion indicado en clase.  
-   - Una vez finalizados, copie el código a los archivos `.hs` correspondientes en su repositorio.  
+   - Una vez finalizados, copie el código a los archivos `.ipynb` correspondientes en su repositorio.  
    - Cada archivo debe contener:
      - La implementación de su solución.  
 
